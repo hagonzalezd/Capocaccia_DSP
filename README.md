@@ -1,5 +1,8 @@
 # Capocaccia_DSP
 
+ods_16xx_dss -> DSP Code
+ods_16xx_mss -> Soft Core Code
+
 The code needs to be compiled using Code Composer Studio. First generating the code for the DSP, and then for the MSS soft core.
 
 Upon completion of the MSS soft core code generation, there will be a file named xwr16xx_ods_ti_design_lab.bin inside the 
